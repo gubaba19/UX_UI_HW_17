@@ -1,9 +1,9 @@
-nav.inline-block{
+nav.inline-block {
     display: inline-block;
     vertical-align: top;
 }
 div logo {
-    width: 24%;
+    width: 23%;
     padding: 1%;
 }
 nav {
@@ -30,7 +30,7 @@ footer {
     color: white;
     padding: 25px;
 }
-footer.ul{
+footer.ul {
     display: inline-block;
     vertical-align: top;
     padding: 25px;
